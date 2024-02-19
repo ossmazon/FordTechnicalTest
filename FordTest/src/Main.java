@@ -2,7 +2,7 @@ public class Main {
 
 
     public static void covert(int a){
-        if(a>=1 & a <=3000) {
+        if(a>=1 && a <=3000) {
             String result = "";
             while (a >= 1000) {
                 result += "M";
